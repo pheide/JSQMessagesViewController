@@ -81,4 +81,6 @@
  */
 + (UIImage *)jsq_defaultPauseImage;
 
++ (UIImage *)jsq_bubbleImageFromBundleWithName:(NSString *)name;
+
 @end
